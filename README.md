@@ -12,7 +12,7 @@
 
 - *What are .Zplg Plugins?*
 
-***.Zplg Plugins are a format developed by (@TheRealYunix) for the [ISZ-Save-Repair](https://github.com/TheRealYunix/Ice-Station-Z-Save-Repair) that allows users to Fix & Edit Save-Data.
+***.Zplg Plugins are a format developed by (@TheRealYunix) for the [ISZ-Save-Repair](https://github.com/TheRealYunix/Ice-Station-Z-Save-Repair) that allows users to Fix & Edit Save-Data.***
 
 - *How do I Compile/Make .Zplg Plugins?*
 
